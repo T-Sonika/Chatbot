@@ -24,7 +24,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/museum-chatbot.git
+git clone https://github.com/T-Sonika/museum-chatbot.git
 cd museum-chatbot
 Install the dependencies:
 
